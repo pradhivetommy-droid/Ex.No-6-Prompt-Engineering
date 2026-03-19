@@ -66,7 +66,8 @@ else:
 ```
 
 Result: 
-<img width="1249" height="222" alt="image" src="https://github.com/user-attachments/assets/b8edf98e-2b90-436c-82c6-c2914313b2fe" />
+<img width="1104" height="196" alt="image" src="https://github.com/user-attachments/assets/013d7904-4d49-477e-ad48-52166f767b1d" />
+
 <img width="1249" height="222" alt="image" src="https://github.com/user-attachments/assets/50a73755-49b8-4b87-a0f9-a4b4df4dff0e" />
 
 
